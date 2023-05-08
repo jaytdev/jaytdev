@@ -21,20 +21,20 @@ Here are some ideas to get you started:
 
 _Here are some ways to help me work with you better_
 
-#### Prioritize quality work
+#### 🎯 Prioritize quality work
 
 Sometimes we have to buckle down and get the work out.
 I'm happiest when tasks are given enough time so that no one has to rush.
 I also feel better about my work when it is thoroughly tested.
 
-#### Give me autonomy
+#### 🎨 Give me autonomy
 
 I prefer having the flexibility to approach projects in my own way.
 This means giving me the freedom to explore new approaches,
 experiment with different tools and technologies,
 and take calculated risks when appropriate.
 
-#### Trust me
+#### 🤝 Trust me
 
 This helps me feel more motivated and invested in my work.
 It means giving me the space to do my job without micromanaging or
