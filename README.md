@@ -46,4 +46,4 @@ and take calculated risks when appropriate.
 This helps me feel more motivated and invested in my work.
 It means giving me the space to do my job without micromanaging or
 second-guessing my decisions.
-If it's readable, maintainable, performant, and secure, let's get this merged.
+If it's readable, maintainable, performant, and secure, let's get it merged.
