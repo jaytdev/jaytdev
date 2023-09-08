@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<!--![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)-->
 <!--![](https://img.shields.io/badge/Django-44B78B?style=for-the-badge&logo=django&logoColor=white)-->
 
 ### User manual
